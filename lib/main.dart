@@ -1,6 +1,6 @@
-import 'package:chat_application/model/chats.dart';
-import 'package:chat_application/ui%20page/chat_list.dart';
-import 'package:chat_application/ui%20page/chat_message_screen.dart';
+
+import 'package:chat_application/ui/chat_list.dart';
+import 'package:chat_application/ui/chat_message_screen/chat_message_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
