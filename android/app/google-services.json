@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346816949919",
+    "project_id": "mahmoudchat-e8954",
+    "storage_bucket": "mahmoudchat-e8954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346816949919:android:2058436b9e4f524f857caa",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346816949919-77c09qck1e0qqhcigivvkk4jcsv0anh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKj_ZKQlwIDS4XEwqxdwaiAOb1aXzVh-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346816949919-77c09qck1e0qqhcigivvkk4jcsv0anh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
